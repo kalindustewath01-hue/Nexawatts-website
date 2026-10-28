@@ -1,0 +1,102 @@
+
+/* ==========================================
+   NEXAWATTS TECH COMPANY
+   CSS FOUNDATION — VERSION 1
+   ========================================== */
+
+/* 1. BODY: element selector and inheritance */
+body {
+    background-color: #f4f7fb;
+    color: #1e293b;
+    font-family: Arial, sans-serif;
+}
+
+/* 2. HEADER */
+header {
+    background-color: #0f172a;
+    color: white;
+}
+
+/* 3. COMPANY NAME: class selector */
+.company-name {
+    color: #38bdf8;
+}
+
+/* 4. MAIN NAVIGATION */
+nav {
+    background-color: #1e293b;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+}
+
+/* 5. MAIN CONTENT: ID selector */
+#main-content {
+    background-color: #f4f7fb;
+    color: #1e293b;
+}
+
+/* 6. CONTENT SECTIONS: class selector */
+.content-section {
+    background-color: white;
+    color: #1e293b;
+}
+
+/* 7. HEADINGS */
+h2 {
+    color: #0369a1;
+}
+
+/* 8. SERVICE CARDS: reusable class */
+.service-card {
+    background-color: #eaf4ff;
+    color: #1e293b;
+}
+
+/* 9. ASIDE */
+aside {
+    background-color: #e2e8f0;
+    color: #334155;
+}
+
+/* 10. TABLES */
+table {
+    background-color: white;
+    color: #1e293b;
+}
+
+th {
+    background-color: #0f172a;
+    color: white;
+}
+
+/* 11. FORMS */
+form {
+    background-color: white;
+    color: #1e293b;
+}
+
+label {
+    color: #0f172a;
+}
+
+input,
+select,
+textarea {
+    background-color: #f8fafc;
+    color: #1e293b;
+}
+
+/* 12. BUTTONS */
+button {
+    background-color: #0284c7;
+    color: white;
+}
+
+/* 13. FOOTER */
+footer {
+    background-color: #0f172a;
+    color: white;
+}
